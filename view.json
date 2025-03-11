@@ -1,7 +1,7 @@
 {
 	"name" : "SystemApiClientServices",
-	"display_name" : "SP Framework Fintech SystemApiClientServices View",
-	"description" : "<p>SP Framework Fintech SystemApiClientServices View</p>",
+	"display_name" : "Fintech Api Client Services View",
+	"description" : "<p>Fintech Api Client Services View</p>",
 	"module_type" : "views",
 	"app_type" : "fintech",
 	"category" : "admin",
